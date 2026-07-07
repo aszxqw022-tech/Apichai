@@ -15,7 +15,7 @@ export const initialMenuItems = [
     description: "เส้นจันท์เหนียวนุ่ม ผัดกับน้ำซอสมะขามเปียกสูตรโบราณเข้มข้น และกุ้งสดตัวโต",
     price: 89.00,
     category: "main",
-    image_url: "https://images.unsplash.com/photo-1626804475315-86445582f3ef?w=600&auto=format&fit=crop&q=80",
+    image_url: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=600&auto=format&fit=crop&q=80",
     is_available: true
   },
   {
@@ -51,7 +51,7 @@ export const initialMenuItems = [
     description: "ข้าวเหนียวมูนกะทิหอมหวานมัน เสิร์ฟพร้อมมะม่วงน้ำดอกไม้สุกสีทองหวานฉ่ำ โรยถั่วทองกรุบกรอบ",
     price: 99.00,
     category: "dessert",
-    image_url: "https://images.unsplash.com/photo-1608755673199-a6ab1cfdb59e?w=600&auto=format&fit=crop&q=80",
+    image_url: "https://images.unsplash.com/photo-1553279768-865429fa0078?w=600&auto=format&fit=crop&q=80",
     is_available: true
   },
   {
